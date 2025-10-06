@@ -7,5 +7,9 @@
 </head>
 <body>
     <h1>azerty</h1>
+    <form action="">
+        <label for=""></label>
+        <input type="text">
+    </form>
 </body>
 </html>
