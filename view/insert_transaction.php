@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="insert_transaction.css">
+    <link rel="stylesheet" href="./assets/insert_transaction.css">
     <title>Insertion</title>
 </head>
 <body>

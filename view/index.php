@@ -8,6 +8,7 @@
 <body>
     <h1>azerty</h1>
     <h2>ma modification</h2>
+    <a href="insert_transaction.php"> inserer</a>
     <form action="">
         <label for=""></label>
         <input type="text">
