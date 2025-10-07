@@ -22,7 +22,7 @@
         </div>
     
              <div class="deuxieme">
-            <button>soumettre</button>
+            <button>Soumettre</button>
         </div>
     
     </section>
