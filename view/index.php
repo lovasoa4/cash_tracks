@@ -3,15 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Login</title>
 </head>
 <body>
     <h1>azerty</h1>
     <h2>ma modification</h2>
-    <a href="insert_transaction.php"> inserer</a>
-    <form action="">
-        <label for=""></label>
-        <input type="text">
-    </form>
+        <div class="dddddd">
+            <a href="insert_transaction.php"> inserer</a>
+            <a href="dashbord.php">se connecter</a>
+        </div>
+    
+
+   
 </body>
 </html>
