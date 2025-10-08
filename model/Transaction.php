@@ -40,7 +40,7 @@ class Transaction{
     }
 
     public function insertion(){
-       
+       return "okokok";
     }
 
 }
