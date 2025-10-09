@@ -6,8 +6,7 @@
     <title>Login</title>
 </head>
 <body>
-    <h1>azerty</h1>
-    <h2>ma modification</h2>
+   
         <div class="dddddd">
             <a href="insert_transaction.php"> inserer</a>
             <a href="dashbord.php">se connecter</a>
