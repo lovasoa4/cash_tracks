@@ -1,6 +1,6 @@
 body{
 
-    background-color: rgba(19, 108, 46, 0.39);
+    background-color: rgb(253, 253, 253);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,13 +10,14 @@ body{
 
 section{
 
-  background-color: rgba(19, 191, 47, 0.438);  
+  background-color: rgba(19, 191, 48, 0.304);  
   text-align: center;
   margin: 0 auto;
   color: aqua;
   padding: 30px;
   width: 420px;
   border-radius: 20px;
+  margin-left: 300px;
  
   
 }
