@@ -1,5 +1,6 @@
 <?php
 include_once('../model/Transaction.php');
+include_once('view/assets/TransactionController.css');
 
 class TransactionController {
 
@@ -20,13 +21,13 @@ class TransactionController {
 
             $success = Transaction::create_transaction($type, $date_transaction, $montant, $description, $id_user);
             if ($success) {
-                echo "<script>alert('Transaction ajoutée avec succès !');</script>";
+                echo " <script>alert('Transaction ajoutée avec succès !');</script>";
             } else {
-                echo "<script>alert('Erreur lors de l\\'ajout de la transaction.');</script>";
+                echo " <script>alert('Erreur lors de l'ajout de la transaction.');</script>";
             }
 
             // Redirection après ajout
-            echo "<script>window.location.href='../view/ListeTransaction.php';</script>";
+            header("location:../view/ListeTransaction.php") ;
             exit;
         }
     }

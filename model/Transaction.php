@@ -1,5 +1,5 @@
 <?php
-include_once('ConnexionDB.php');
+include_once('../db/ConnexionDB.php');
 
 class Transaction {
     protected int $id;

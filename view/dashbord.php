@@ -14,8 +14,7 @@
           </div>
             <ul class="links">
                     <li><a href="">Tableau de bord</a></li>
-                    <li><a href="">Total des credits</a></li>
-                    <li><a href="">Total des debits</a></li>
+                    <li><a href="ListeTransaction.php">Transactions</a></li>
                     <li><a href="">A propos</a></li>
                     <li><a href="">Contact</a></li>
             </ul>

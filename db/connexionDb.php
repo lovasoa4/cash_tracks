@@ -10,7 +10,6 @@ class ConnexionDB{
             
             $pdo = new PDO("mysql:host=$this->host;dbname=$this->dbName;charset=utf8", $this->user, $this->password );
             $pdo->setAttribute( PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION );
-            echo "mety";
             return $pdo;
         }
         catch( PDOException $e ){
